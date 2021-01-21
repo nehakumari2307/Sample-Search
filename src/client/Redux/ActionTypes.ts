@@ -1,0 +1,2 @@
+export const INIT_ROLE_LIST = 'INIT_ROLE_LIST';
+export const SEARCH_ROLE_LIST = 'SEARCH_ROLE_LIST';
